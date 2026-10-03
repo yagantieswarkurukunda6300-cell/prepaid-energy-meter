@@ -511,7 +511,7 @@ The goal is to make residential energy systems easier to visualize, interact wit
 
 ---
 
-# 👨‍💻 ENGINEERED BY ESWAR
+# 👨‍💻 ENGINEERED BY YAGANTI ESWAR
 
 <p align="center">
 
