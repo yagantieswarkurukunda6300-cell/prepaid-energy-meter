@@ -1,310 +1,238 @@
 # ⚡ PREPAID ENERGY METER
 
-## 🏠 Residential Building Electrical Installation
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=2500&pause=800&color=FF6B00&center=true&vCenter=true&width=850&lines=PREPAID+ENERGY+METER;SMART+RESIDENTIAL+ENERGY+SYSTEM;ELECTRICAL+ENGINEERING+%2B+MODERN+WEB+TECHNOLOGY" />
+
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/⚡_Electrical_Engineering-FF6B00?style=for-the-badge&labelColor=111827" />
+  <img src="https://img.shields.io/badge/🏠_Residential_Energy-06B6D4?style=for-the-badge&labelColor=111827" />
+  <img src="https://img.shields.io/badge/💰_Prepaid_Meter-22C55E?style=for-the-badge&labelColor=111827" />
+  <img src="https://img.shields.io/badge/⚛️_React-61DAFB?style=for-the-badge&labelColor=111827" />
+</p>
 
 <p align="center">
 
-**A realistic interactive prepaid energy meter simulation for residential electrical monitoring, appliance control, energy tracking, and prepaid balance management.**
+<strong>A realistic interactive residential electrical energy monitoring, appliance control and prepaid balance simulation built with React and Vite.</strong>
 
 </p>
 
 <p align="center">
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+<img src="https://img.shields.io/github/stars/yagantieswarkurukunda6300-cell/prepaid-energy-meter?style=for-the-badge&label=STARS&color=F59E0B" />
+<img src="https://img.shields.io/github/forks/yagantieswarkurukunda6300-cell/prepaid-energy-meter?style=for-the-badge&label=FORKS&color=8B5CF6" />
+<img src="https://img.shields.io/github/last-commit/yagantieswarkurukunda6300-cell/prepaid-energy-meter?style=for-the-badge&label=LAST%20COMMIT&color=06B6D4" />
 
 </p>
+
+---
+
+# ⚡ SYSTEM INITIALIZING...
 
 <p align="center">
 
-![Electrical Engineering](https://img.shields.io/badge/⚡_Electrical_Engineering-FF6B00?style=for-the-badge)
-![Energy Monitoring](https://img.shields.io/badge/🔋_Energy_Monitoring-22C55E?style=for-the-badge)
-![Residential System](https://img.shields.io/badge/🏠_Residential_System-06B6D4?style=for-the-badge)
-![Prepaid Meter](https://img.shields.io/badge/💰_Prepaid_Meter-8B5CF6?style=for-the-badge)
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=1800&pause=500&color=00E5FF&center=true&vCenter=true&width=800&lines=CONNECTING+RESIDENTIAL+LOADS...;INITIALIZING+ENERGY+MONITORING...;CHECKING+MAIN+MCB...;LOADING+PREPAID+BALANCE...;SYSTEM+READY+%E2%9C%93" />
 
 </p>
-
----
-
-# ⚡ PROJECT AT A GLANCE
-
-| ⚡ SYSTEM                   | 📊 STATUS       |
-| -------------------------- | --------------- |
-| 🏠 Residential Environment | Interactive     |
-| 🔌 Energy Monitoring       | Live Simulation |
-| 💡 Appliance Control       | Available       |
-| 🛡️ Main MCB               | ON / OFF        |
-| 💰 Prepaid Balance         | Available       |
-| 🔋 Energy Tracking         | Available       |
-| 🔄 Reset System            | Available       |
-| 🌐 Frontend                | React + Vite    |
-
----
-
-# 🎯 WHAT IS THIS PROJECT?
-
-**Prepaid Energy Meter** is a web-based simulation of a residential electrical installation.
-
-The project creates a digital representation of a house where users can:
-
-* Monitor voltage
-* Monitor current
-* Observe power consumption
-* Track energy usage
-* Manage prepaid balance
-* Control household appliances
-* Operate the main MCB
-* Observe supply status
-* Reset the simulated system
-
-The main goal is to combine **Electrical Engineering concepts with modern web development** in a practical and interactive project.
-
----
-
-# 🏠 RESIDENTIAL ELECTRICAL SYSTEM
 
 ```text
-                    ⚡ ELECTRICAL SUPPLY
-                            │
-                            ▼
-                  ┌──────────────────┐
-                  │  PREPAID ENERGY  │
-                  │      METER       │
-                  └────────┬─────────┘
-                           │
-                           ▼
-                  ┌──────────────────┐
-                  │    MAIN MCB      │
-                  │ DISTRIBUTION BD  │
-                  └────────┬─────────┘
-                           │
-             ┌─────────────┼─────────────┐
-             │             │             │
-             ▼             ▼             ▼
-        🛏️ BEDROOM    🛋️ LIVING     🍳 KITCHEN
-             │             │             │
-             ▼             ▼             ▼
-        💡 LIGHT       💡 LIGHT      💡 LIGHT
-        🌀 FAN         🌀 FAN
-        ❄️ AC          📺 TV
+╔══════════════════════════════════════════════════════════╗
+║                 RESIDENTIAL ENERGY SYSTEM                ║
+╠══════════════════════════════════════════════════════════╣
+║                                                          ║
+║   ⚡ GRID SUPPLY                                         ║
+║          │                                               ║
+║          ▼                                               ║
+║   ┌───────────────────┐                                  ║
+║   │ PREPAID ENERGY    │                                  ║
+║   │      METER        │                                  ║
+║   └─────────┬─────────┘                                  ║
+║             │                                            ║
+║             ▼                                            ║
+║   ┌───────────────────┐                                  ║
+║   │   MAIN MCB        │                                  ║
+║   │   DISTRIBUTION    │                                  ║
+║   │      BOARD        │                                  ║
+║   └─────────┬─────────┘                                  ║
+║             │                                            ║
+║      ┌──────┼──────┐                                     ║
+║      ▼      ▼      ▼                                     ║
+║   🛏️ BED   🛋️ LIVING  🍳 KITCHEN                         ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-# 📊 LIVE MONITORING
+# 🏠 PROJECT OVERVIEW
 
-The application provides an interactive simulation of residential electrical parameters.
+**Prepaid Energy Meter** is an interactive residential electrical installation simulation designed to demonstrate how a modern prepaid electricity monitoring system can operate inside a home.
 
-| Parameter  | Example Reading |
-| ---------- | --------------: |
-| ⚡ Voltage  |       **230 V** |
-| 🔌 Current |      **0.64 A** |
-| 💡 Power   |       **135 W** |
-| 🔋 Energy  |   **0.004 kWh** |
-| 💰 Balance |     **₹100.00** |
-| 🟢 Supply  |          **ON** |
+The project combines:
 
-> These values represent the simulated electrical state of the application and are not measurements from a physical energy meter.
+> ⚡ **Electrical Engineering**
+> 🤖 **Intelligent Monitoring Concepts**
+> 🏠 **Residential Load Management**
+> 💰 **Prepaid Energy Management**
+> 🌐 **Modern Web Development**
+
+Instead of showing only numbers and charts, the project represents a **digital residential electrical environment** where household appliances, the distribution board, the main MCB, electrical parameters and prepaid balance can be monitored through an interactive interface.
 
 ---
 
-# 💡 APPLIANCE CONTROL
+# 🎯 THE CORE IDEA
+
+```text
+              REAL RESIDENTIAL SYSTEM
+                       │
+                       ▼
+                ⚡ ENERGY SUPPLY
+                       │
+                       ▼
+                🔌 ENERGY METER
+                       │
+                       ▼
+                🛡️ MAIN MCB
+                       │
+                       ▼
+              🏠 HOUSEHOLD LOADS
+                       │
+          ┌────────────┼────────────┐
+          ▼            ▼            ▼
+       BEDROOM      LIVING ROOM    KITCHEN
+          │            │            │
+          ▼            ▼            ▼
+      LIGHT/FAN      LIGHT/TV       LIGHT
+          │            │            │
+          └────────────┼────────────┘
+                       ▼
+                📊 ENERGY USAGE
+                       │
+                       ▼
+                 💰 PREPAID BALANCE
+```
+
+---
+
+# ⚡ LIVE ELECTRICAL MONITORING
+
+The system provides a live simulation of important electrical parameters.
+
+| ⚡ Parameter | 📊 Example Value |
+| ----------- | ---------------: |
+| Voltage     |        **230 V** |
+| Current     |       **0.64 A** |
+| Power       |        **135 W** |
+| Energy      |    **0.004 kWh** |
+| Balance     |      **₹100.00** |
+| Supply      |        **🟢 ON** |
+
+These values represent the electrical state of the simulated residential installation.
+
+---
+
+# 🏠 RESIDENTIAL LOAD CONTROL
 
 ## 🛏️ BEDROOM
 
-| Appliance | Control  |
-| --------- | -------- |
-| 💡 Light  | ON / OFF |
-| 🌀 Fan    | ON / OFF |
-| ❄️ AC     | ON / OFF |
+```text
+💡 LIGHT    →  ON / OFF
+🌀 FAN      →  ON / OFF
+❄️ AC       →  ON / OFF
+```
 
 ## 🛋️ LIVING ROOM
 
-| Appliance | Control  |
-| --------- | -------- |
-| 💡 Light  | ON / OFF |
-| 🌀 Fan    | ON / OFF |
-| 📺 TV     | ON / OFF |
+```text
+💡 LIGHT    →  ON / OFF
+🌀 FAN      →  ON / OFF
+📺 TV       →  ON / OFF
+```
 
 ## 🍳 KITCHEN
 
-| Appliance | Control  |
-| --------- | -------- |
-| 💡 Light  | ON / OFF |
+```text
+💡 LIGHT    →  ON / OFF
+```
+
+The appliance controls allow the user to interact with the simulated household electrical loads and observe the resulting system behavior.
 
 ---
 
 # 💰 PREPAID ENERGY MANAGEMENT
 
-The project demonstrates the basic workflow of a prepaid electricity system.
+The project demonstrates the basic concept of prepaid electricity consumption.
 
 ```text
-        💳 RECHARGE
-             │
-             ▼
-      💰 PREPAID BALANCE
-             │
-             ▼
-        ⚡ ENERGY USE
-             │
-             ▼
-      📊 USAGE CALCULATION
-             │
-             ▼
-       💰 BALANCE UPDATE
-             │
-             ▼
-        🏠 SUPPLY STATUS
+             💳 RECHARGE
+                  │
+                  ▼
+          💰 PREPAID BALANCE
+                  │
+                  ▼
+             ⚡ ENERGY USE
+                  │
+                  ▼
+          📊 CONSUMPTION
+             CALCULATION
+                  │
+                  ▼
+          💰 BALANCE UPDATE
+                  │
+                  ▼
+             🏠 SUPPLY
 ```
 
-The user can recharge the simulated balance and observe how energy consumption is connected to the available prepaid amount.
+The system connects energy usage with a prepaid balance to demonstrate the concept of **pay-before-consumption energy management**.
 
 ---
 
-# 🛡️ MAIN MCB CONTROL
+# 🛡️ MAIN MCB & SUPPLY CONTROL
 
-The simulated distribution board contains a **Main MCB**.
-
-### 🟢 MCB ON
+The residential distribution board includes a simulated **Main MCB**.
 
 ```text
-MCB ON
-  ↓
-SUPPLY AVAILABLE
-  ↓
-HOUSEHOLD LOADS ACTIVE
+🟢 MCB ON
+   ↓
+⚡ SUPPLY ACTIVE
+   ↓
+🏠 LOADS AVAILABLE
 ```
-
-### 🔴 MCB OFF
 
 ```text
-MCB OFF
-  ↓
-SUPPLY DISCONNECTED
-  ↓
-HOUSEHOLD LOADS DISABLED
+🔴 MCB OFF
+   ↓
+⛔ SUPPLY DISCONNECTED
+   ↓
+🏠 LOADS DISABLED
 ```
 
-This represents the basic role of a main protection and isolation device in a residential electrical installation.
+This provides a simple digital representation of the main protection and isolation point in a residential electrical installation.
 
 ---
 
-# ⚡ ELECTRICAL ENGINEERING
+# 🔥 KEY FEATURES
 
-This project demonstrates several fundamental electrical concepts.
-
-### 🔌 Voltage
-
-Electrical potential difference supplied to the simulated residential system.
-
-### ⚡ Current
-
-Current drawn by the connected household loads.
-
-### 💡 Power
-
-Electrical power associated with the connected load.
-
-### 🔋 Energy
-
-Electrical energy consumed by the simulated appliances.
-
-### 💰 Tariff
-
-Cost associated with energy consumption.
-
-### 🛡️ MCB
-
-Main protection and isolation point represented in the distribution board.
-
-### 🏠 Load Management
-
-Controlling residential appliances according to the simulated electrical system state.
-
----
-
-# 📐 POWER RELATIONSHIP
-
-One of the fundamental electrical relationships represented in the project is:
-
-```text
-             P = V × I
-
-      P = Electrical Power
-      V = Voltage
-      I = Current
-```
-
-Example:
-
-```text
-Voltage = 230 V
-Current = 0.64 A
-
-P = 230 × 0.64
-P ≈ 147 W
-```
-
-The application itself uses its own simulation logic for displayed values.
-
----
-
-# 🔄 SYSTEM WORKFLOW
-
-```text
-┌─────────────────────┐
-│   USER INTERACTION  │
-└──────────┬──────────┘
-           │
-           ▼
-┌─────────────────────┐
-│ APPLIANCE CONTROL   │
-└──────────┬──────────┘
-           │
-           ▼
-┌─────────────────────┐
-│ LOAD / POWER LOGIC  │
-└──────────┬──────────┘
-           │
-           ▼
-┌─────────────────────┐
-│ ENERGY CALCULATION  │
-└──────────┬──────────┘
-           │
-           ▼
-┌─────────────────────┐
-│ PREPAID BALANCE     │
-└──────────┬──────────┘
-           │
-           ▼
-┌─────────────────────┐
-│ SUPPLY STATUS       │
-└─────────────────────┘
-```
-
----
-
-# ✨ KEY FEATURES
-
-### ⚡ ENERGY MONITORING
+### ⚡ ELECTRICAL MONITORING
 
 * Voltage monitoring
 * Current monitoring
 * Power monitoring
 * Energy consumption tracking
-* Supply status monitoring
+* Supply status
+* Electrical load simulation
 
 ### 🏠 RESIDENTIAL CONTROL
 
-* Bedroom appliance controls
-* Living room appliance controls
-* Kitchen appliance controls
+* Bedroom appliance control
+* Living room appliance control
+* Kitchen appliance control
 * Main MCB control
-* Residential distribution simulation
+* Interactive residential environment
 
-### 💰 PREPAID MANAGEMENT
+### 💰 PREPAID SYSTEM
 
 * Prepaid balance
 * Recharge functionality
@@ -315,25 +243,94 @@ The application itself uses its own simulation logic for displayed values.
 ### 🎨 USER EXPERIENCE
 
 * Interactive interface
-* Residential electrical environment
-* Responsive design
-* Visual electrical controls
-* Simulated real-time values
+* Residential electrical visualization
+* Responsive layout
+* Modern UI
+* Animated visual elements
+* Real-time simulated values
 * Reset functionality
 
 ---
 
-# 🧰 TECHNOLOGY STACK
+# 🧠 ELECTRICAL ENGINEERING CONCEPTS
 
-| Technology    | Purpose                              |
-| ------------- | ------------------------------------ |
-| ⚛️ React      | User interface and application logic |
-| ⚡ Vite        | Development and production build     |
-| 🟨 JavaScript | Application functionality            |
-| 🎨 CSS3       | UI design and animations             |
-| 🌐 HTML5      | Application structure                |
-| 🐙 GitHub     | Source-code management               |
-| 🚀 Vercel     | Deployment                           |
+This project connects software development with practical electrical engineering concepts.
+
+### ⚡ Voltage
+
+Electrical potential difference supplied to the residential system.
+
+### 🔌 Current
+
+Electrical current drawn by connected household loads.
+
+### 💡 Power
+
+The instantaneous electrical power associated with the simulated load.
+
+### 🔋 Energy
+
+Electrical energy consumed over time.
+
+### 💰 Tariff
+
+The cost associated with consumed electrical energy.
+
+### 🛡️ MCB
+
+Main protection and isolation device represented in the simulated distribution board.
+
+### 🏠 Load Management
+
+Controlling household appliances according to the simulated electrical state.
+
+---
+
+# 📐 BASIC ELECTRICAL RELATIONSHIP
+
+```text
+                 P = V × I
+
+        P → Electrical Power
+        V → Voltage
+        I → Current
+```
+
+Example:
+
+```text
+V = 230 V
+I = 0.64 A
+
+P ≈ 230 × 0.64
+P ≈ 147 W
+```
+
+The displayed system values are simulated and may use project-specific load calculations.
+
+---
+
+# 🛠️ TECHNOLOGY STACK
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,vite,js,css,html,git,github" />
+
+</p>
+
+### FRONTEND
+
+⚛️ React
+⚡ Vite
+🟨 JavaScript
+🎨 CSS3
+🌐 HTML5
+
+### DEVELOPMENT
+
+🔧 Git
+🐙 GitHub
+🚀 Vercel
 
 ---
 
@@ -367,57 +364,42 @@ prepaid-energy-meter/
 ├── package-lock.json
 ├── vite.config.js
 ├── .gitignore
-├── .oxlintrc.json
 ├── build-status.txt
 └── README.md
 ```
 
 ---
 
-# 🚀 RUN LOCALLY
+# 🚀 RUN THE PROJECT LOCALLY
 
-### 1. Clone the repository
+## 1️⃣ Clone
 
 ```bash
 git clone https://github.com/yagantieswarkurukunda6300-cell/prepaid-energy-meter.git
 ```
 
-### 2. Enter the project directory
+## 2️⃣ Open Project
 
 ```bash
 cd prepaid-energy-meter
 ```
 
-### 3. Install dependencies
+## 3️⃣ Install Dependencies
 
 ```bash
 npm install
 ```
 
-### 4. Start the development server
+## 4️⃣ Start Development Server
 
 ```bash
 npm run dev
 ```
 
-### 5. Open the application
+## 5️⃣ Open Browser
 
 ```text
 http://localhost:5173
-```
-
----
-
-# 🏗️ BUILD FOR PRODUCTION
-
-```bash
-npm run build
-```
-
-To preview the production build locally:
-
-```bash
-npm run preview
 ```
 
 ---
@@ -428,151 +410,251 @@ npm run preview
 
 <a href="https://prepaid-energy-meter.vercel.app/">
 
-![Open Live Project](https://img.shields.io/badge/🚀_OPEN_LIVE_PROJECT-FF6B00?style=for-the-badge\&labelColor=111827)
+<img src="https://img.shields.io/badge/🚀_OPEN_LIVE_PROJECT-FF6B00?style=for-the-badge&labelColor=111827" />
 
 </a>
 
 </p>
 
-> If your current Vercel deployment has a different URL, replace the link above with the exact deployed URL.
+> Replace the URL above with the exact Vercel deployment URL if your deployment uses a different address.
 
 ---
 
-# 🎓 EDUCATIONAL PURPOSE
-
-This project is designed as an **Electrical Engineering + Software Development portfolio project**.
-
-It can help demonstrate concepts related to:
+# 🎬 SYSTEM FLOW
 
 ```text
-⚡ Electrical Systems
-        +
-🏠 Residential Distribution
-        +
-🔌 Load Management
-        +
-💰 Prepaid Energy
-        +
-📊 Energy Monitoring
-        +
-💻 Software Development
+                 ⚡ INPUT
+                    │
+                    ▼
+           ┌─────────────────┐
+           │ ELECTRICAL LOAD │
+           └────────┬────────┘
+                    │
+                    ▼
+            📊 MONITORING
+                    │
+                    ▼
+           ⚙️ PROCESSING
+                    │
+          ┌─────────┴─────────┐
+          ▼                   ▼
+     💡 POWER             🔋 ENERGY
+     TRACKING             TRACKING
+          │                   │
+          └─────────┬─────────┘
+                    ▼
+             💰 PREPAID
+              BALANCE
+                    │
+                    ▼
+              🏠 USER
+             INTERACTION
 ```
-
-The project is a **simulation**, not a certified electricity meter or a replacement for a physical protection or metering device.
 
 ---
 
-# 🌟 WHY I BUILT THIS
+# 🎯 WHY THIS PROJECT?
 
-Electrical engineering concepts are often learned through circuits, formulas, diagrams and laboratory equipment.
-
-This project takes those concepts into a digital environment.
+Traditional electrical concepts are often studied through:
 
 ```text
-             THEORY
-                │
-                ▼
-          ENGINEERING
-                │
-                ▼
-            SOFTWARE
-                │
-                ▼
-           SIMULATION
-                │
-                ▼
-          INTERACTION
-                │
-                ▼
-          UNDERSTANDING
+Circuits
++
+Equations
++
+Meters
++
+Diagrams
 ```
 
-The objective is to make residential energy systems more **visual, interactive and easier to understand**.
+This project transforms those concepts into an **interactive digital environment**.
+
+```text
+THEORY
+  ↓
+ENGINEERING
+  ↓
+SOFTWARE
+  ↓
+INTERACTION
+  ↓
+SIMULATION
+  ↓
+UNDERSTANDING
+```
+
+The goal is to make residential energy systems easier to visualize, interact with and understand.
+
+---
+
+# 🧩 ENGINEERING + SOFTWARE
+
+```text
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│             ⚡ ELECTRICAL ENGINEERING               │
+│                       +                             │
+│                🌐 WEB DEVELOPMENT                   │
+│                       +                             │
+│                  📊 DATA LOGIC                      │
+│                       +                             │
+│                  🏠 SIMULATION                      │
+│                       +                             │
+│                 🎨 USER EXPERIENCE                   │
+│                                                     │
+│                       ↓                             │
+│                                                     │
+│              PREPAID ENERGY METER                  │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+```
 
 ---
 
 # 👨‍💻 ENGINEERED BY ESWAR
 
-## ⚡ KURUKUNDA YAGANTI ESWAR
+<p align="center">
 
-**Electrical Engineering • AI • IoT • Automation • Software Development**
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=700&color=FF6B00&center=true&vCenter=true&width=800&lines=KURUKUNDA+YAGANTI+ESWAR;ELECTRICAL+ENGINEER+%7C+AI+%7C+IoT;BUILDING+THE+FUTURE+WITH+ENGINEERING+%2B+TECHNOLOGY" />
 
-I build practical engineering projects by combining electrical systems with modern software, intelligent technologies and interactive digital experiences.
+</p>
 
-### 🔧 CORE INTERESTS
+<p align="center">
 
-| ⚡ ENGINEERING      | 🤖 INTELLIGENCE         | 📡 CONNECTIVITY | 💻 SOFTWARE    |
-| ------------------ | ----------------------- | --------------- | -------------- |
-| Electrical Systems | Artificial Intelligence | IoT             | React          |
-| Energy Systems     | Machine Learning        | Automation      | JavaScript     |
-| Protection Systems | Fault Detection         | Smart Devices   | Vite           |
-| Industrial Systems | Predictive Concepts     | Sensors         | Web Technology |
+<img src="https://img.shields.io/badge/⚡_ELECTRICAL_ENGINEERING-FF6B00?style=for-the-badge&labelColor=111827" />
+<img src="https://img.shields.io/badge/🤖_ARTIFICIAL_INTELLIGENCE-8B5CF6?style=for-the-badge&labelColor=111827" />
+<img src="https://img.shields.io/badge/📡_IoT_&_AUTOMATION-06B6D4?style=for-the-badge&labelColor=111827" />
+<img src="https://img.shields.io/badge/🌐_WEB_TECHNOLOGY-22C55E?style=for-the-badge&labelColor=111827" />
+
+</p>
+
+<br>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yagantieswarkurukunda6300-cell&bg_color=0B1120&color=38BDF8&line=FF6B00&point=FFFFFF&area=true&hide_border=true" width="95%" />
+
+</p>
 
 ---
 
-# 🔥 ENGINEERING PHILOSOPHY
+## ⚙️ WHERE ENGINEERING MEETS INTELLIGENCE
 
-> **“Don't just study the system. Build it, simulate it, understand it and improve it.”**
+> **“I don't just build software.
+> I build systems that connect the physical world with intelligent technology.”**
+
+From **electrical circuits and energy systems** to **AI-powered platforms, IoT automation and interactive engineering simulations**, every project is built around one idea:
+
+# 🔥 TURN ENGINEERING PROBLEMS INTO DIGITAL SYSTEMS.
 
 ```text
-⚡ IDEA
-  ↓
-🔧 ENGINEERING
-  ↓
-💻 DEVELOPMENT
-  ↓
-🤖 INTELLIGENCE
-  ↓
-📡 CONNECTIVITY
-  ↓
-🏭 SYSTEM
-  ↓
-🚀 REAL-WORLD IMPACT
+        ⚡ ELECTRICAL ENGINEERING
+                    │
+                    ▼
+             📡 CONNECTED SYSTEMS
+                    │
+                    ▼
+               🤖 INTELLIGENT AI
+                    │
+                    ▼
+              🌐 DIGITAL EXPERIENCE
+                    │
+                    ▼
+               🏭 REAL-WORLD IMPACT
 ```
 
 ---
 
-# 🌐 CONNECT WITH ME
+# 🚀 THE ENGINEERING STACK
+
+|       ⚡ POWER      |     🤖 INTELLIGENCE     | 📡 CONNECTIVITY |  🌐 EXPERIENCE |
+| :----------------: | :---------------------: | :-------------: | :------------: |
+| Electrical Systems | Artificial Intelligence |       IoT       |      React     |
+|  Energy Monitoring |     Machine Learning    |    Automation   |      Vite      |
+| Protection Systems |     Fault Detection     |     Sensors     | Interactive UI |
+| Industrial Systems |   Predictive Analysis   |  Smart Devices  |   Modern Web   |
+
+---
+
+# 🎬 BUILD → CONNECT → INTELLIGENT → IMPACT
 
 <p align="center">
 
-<a href="https://github.com/yagantieswarkurukunda6300-cell">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/yaganti-eswar-kurukunda-7027132b2/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=1800&pause=500&color=00E5FF&center=true&vCenter=true&width=850&lines=DESIGNING+ELECTRICAL+SYSTEMS+%E2%9A%A1;CONNECTING+REAL+WORLD+DEVICES+%F0%9F%93%A1;ADDING+INTELLIGENCE+WITH+AI+%F0%9F%A4%96;BUILDING+INTERACTIVE+DIGITAL+SYSTEMS+%F0%9F%8C%90;ENGINEERING+THE+NEXT+GENERATION+%F0%9F%9A%80" />
 
 </p>
 
 ---
 
-# ⭐ SUPPORT THE PROJECT
+# 🧠 PROJECT PHILOSOPHY
 
-If you find this project useful:
+```text
+             REAL PROBLEM
+                  │
+                  ▼
+            ELECTRICAL IDEA
+                  │
+                  ▼
+              ENGINEERING
+                  │
+                  ▼
+               SOFTWARE
+                  │
+                  ▼
+               AI + IoT
+                  │
+                  ▼
+           INTERACTIVE SYSTEM
+                  │
+                  ▼
+              REAL IMPACT 🚀
+```
 
-⭐ **Star the repository**
+Every project is an opportunity to combine **engineering thinking, technology and creativity** into something that can be understood, interacted with and continuously improved.
 
-🍴 **Fork the repository**
+---
 
-📢 **Share the project**
+# 🌟 THE VISION
 
-💡 **Explore the code**
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=2200&pause=700&color=F59E0B&center=true&vCenter=true&width=850&lines=FROM+CIRCUITS+TO+CODE;FROM+CODE+TO+INTELLIGENCE;FROM+INTELLIGENCE+TO+SYSTEMS;FROM+SYSTEMS+TO+REAL+IMPACT" />
+
+</p>
+
+```text
+       ⚡ CIRCUITS
+           ↓
+       🔧 ENGINEERING
+           ↓
+        💻 CODE
+           ↓
+        🤖 AI
+           ↓
+        📡 IoT
+           ↓
+       🏭 SYSTEMS
+           ↓
+        🚀 IMPACT
+```
 
 ---
 
 <p align="center">
 
-# ⚡ ELECTRICAL ENGINEERING × TECHNOLOGY 🚀
+# ⚡ KURUKUNDA YAGANTI ESWAR
 
-**FROM CIRCUITS → TO CODE → TO INTELLIGENT SYSTEMS**
+<strong>Electrical Engineering • AI • IoT • Automation • Software</strong>
 
-</p>
+<br><br>
 
-<p align="center">
+<img src="https://img.shields.io/badge/BUILDING-REAL_SYSTEMS-FF6B00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LEARNING-ADVANCED_TECHNOLOGY-8B5CF6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ENGINEERING-THE_FUTURE-06B6D4?style=for-the-badge" />
 
-🏠 **PREPAID ENERGY METER** • ⚡ **BUILT WITH ENGINEERING** • 💻 **POWERED BY REACT**
+<br><br>
+
+### ⚡ FROM CIRCUITS → TO INTELLIGENCE → TO IMPACT 🚀
 
 </p>
 
@@ -580,6 +662,14 @@ If you find this project useful:
 
 <p align="center">
 
-**© 2026 Kurukunda Yaganti Eswar**
+<img src="https://komarev.com/ghpvc/?username=yagantieswarkurukunda6300-cell&style=for-the-badge&color=FF6B00&label=PROFILE+VIEWS" />
 
 </p>
+
+<p align="center">
+
+<strong>⭐ If this project helped or inspired you, consider starring the repository.</strong>
+
+</p>
+
+---
